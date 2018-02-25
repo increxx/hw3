@@ -6,5 +6,6 @@ https://docs.google.com/forms/d/1_orz4A7tblB-by9F-2XJT6uYIwyrzAvzYLEX1RY1FgU/edi
 
 В опросе приняло участие 59 человек, так как я забыл вовремя остановить прием ответов, но я не растерялся и удалил 39 ответов, поэтому в конечном итоге их 20
 
-https://docs.google.com/spreadsheets/d/1bInC9Q7bRbepyk3DUwykHcxgbZOkXEHfQsHSgpymZr0/edit#gid=1446281037 - таблица с круговой диаграммой, гистаграммой и выводами
+https://docs.google.com/spreadsheets/d/1bInC9Q7bRbepyk3DUwykHcxgbZOkXEHfQsHSgpymZr0/edit#gid=1446281037 - таблица с круговой диаграммой, столбчатой диаграммой и выводами
 
+ВЫВОД: Большинство опрошенных - бедные студенты, которые хотят в будущем стать специалистами по межкультурным коммуникациям.
